@@ -1,0 +1,7 @@
+1d:01:54:da:47:7c
+
+988317
+
+http://z01.shop/get.php?username=241768657&password=346367485&type=m3u_plus&output=mpegts
+
+http://hypercdn.online:80/get.php?username=786286896&password=241019882&type=m3u_plus&output=ts
